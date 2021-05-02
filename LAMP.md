@@ -61,6 +61,7 @@ sudo mysql_secure_installation
 # create simple index.html and verify from browser
 
 ![image](https://user-images.githubusercontent.com/49937302/116814923-bd52f100-ab8d-11eb-8f2d-47e3b846d537.png)
+
 ![image](https://user-images.githubusercontent.com/49937302/116814926-c04de180-ab8d-11eb-9ce1-33eb44e521fb.png)
 
  
@@ -72,6 +73,7 @@ sudo mysql_secure_installation
 # create index.php & reload apache
 
 ![image](https://user-images.githubusercontent.com/49937302/116814944-ce036700-ab8d-11eb-89b3-b5431a35dfc7.png)
+
 ![image](https://user-images.githubusercontent.com/49937302/116814946-d196ee00-ab8d-11eb-9e8f-97647e12047b.png)
 
  
